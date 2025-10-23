@@ -40,7 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+Tabulation:1 
 	
 Cross connection: CIRCUIT DIAGRAM:
 
